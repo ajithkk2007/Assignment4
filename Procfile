@@ -1,1 +1,1 @@
-File contents
+web: sh setup.sh && streamlit run Math_test_result.py
